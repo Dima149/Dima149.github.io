@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"au",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/асус/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/асус/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/асус/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/асус/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/асус/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/C/Users/асус/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Users/асус/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/D/сайт1/index.html",
+		"/D/сайт1/css/main.css",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/banner/css/main.css",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/banner/index.html",
+		"/D/сайт/index.html",
+		"/C/Users/асус/Downloads/one-page1/HTML/index.html",
+		"/D/видео/Как сделать дизайн для сайта/HTML и CSS для начинающих/index.html",
+		"/C/Users/асус/Downloads/one-page1/HTML/css/layout-rtl.css",
+		"/C/Users/асус/Downloads/one-page1/HTML/css/layout.css",
+		"/C/Users/асус/Downloads/one-page1/HTML/css/layout-rtl.min.css",
+		"/C/Users/асус/Downloads/one-page1/HTML/sass/plugins/_bootstrap-components.scss",
+		"/C/Users/асус/Downloads/one-page1/HTML/vendor/bootstrap/css/bootstrap.css",
+		"/C/Users/асус/Downloads/Documentation/assets/js/jquery.js",
+		"/C/Users/асус/Downloads/Селекторы/selektory-praktika.html",
+		"/C/Users/асус/Downloads/Documentation/index.html",
+		"/C/Users/асус/Downloads/Grape Main Template/assets/css/et-line.css",
+		"/C/Users/асус/Downloads/Grape Main Template/blog.html",
+		"/C/Users/асус/Downloads/Grape Main Template/sendmail.php",
+		"/C/Users/асус/Downloads/Grape Main Template/home_2.html",
+		"/C/Users/асус/Downloads/Grape Main Template/home_3.html",
+		"/C/Users/асус/Downloads/Grape Main Template/home_1.html",
+		"/C/Users/асус/Downloads/Grape Main Template/blog-single.html",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/_pricing_1.scss",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/_screenshot.scss",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/_screenshot_1.scss",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/_subscription.scss",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/_subscription_1.scss",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/_support.scss",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/_support_1.scss",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/_testimonial.scss",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/_testimonial_1.scss",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/_variable.scss",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/_variable_1.scss",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/_video-desc.scss",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/_video-desc_1.scss",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/1.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/1.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/1_1.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/1_1.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/1_2.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/1_3.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/2.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/2_1.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/2_2.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/3.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/3_1.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/3_2.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/4.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/4_1.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/4_2.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/5.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/5_1.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/animate.css",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/animate_1.css",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/apple-touch-icon.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/apple-touch-icon_1.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/banner-hero.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/banner-hero_1.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/banner-mock-back.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/banner-mock-back_1.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/banner-mock-front.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/banner-mock-front_1.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/big.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/big.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/big_1.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/big_1.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/blog.html",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/blog_1.html",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/blog-single.html",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/blog-single_1.html",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/bootstrap.min.css",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/bootstrap.min.js",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/bootstrap.min_1.css",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/bootstrap.min_1.js",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/client-avatar.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/client-avatar_1.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/contact.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/contact_1.jpg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/custom.js",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/custom_1.js",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/documenter_style.css",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/documenter_style_1.css",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/et-line.css",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/et-line.eot",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/et-line.svg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/et-line.ttf",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/et-line.woff",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/et-line_1.css",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/et-line_1.eot",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/et-line_1.svg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/et-line_1.ttf",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/et-line_1.woff",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/et-line_2.css",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/favicon.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/favicon_1.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/features-mock-back.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/features-mock-back_1.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/features-mock-front.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/features-mock-front_1.png",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/font-awesome.min.css",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/font-awesome.min_1.css",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/FontAwesome.otf",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/FontAwesome_1.otf",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/fontawesome-webfont.eot",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/fontawesome-webfont.svg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/fontawesome-webfont.ttf",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/fontawesome-webfont.woff",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/fontawesome-webfont.woff2",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/fontawesome-webfont_1.eot",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/fontawesome-webfont_1.svg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/fontawesome-webfont_1.ttf",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/fontawesome-webfont_1.woff",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/fontawesome-webfont_1.woff2",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/glyphicons-halflings-regular.eot",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/glyphicons-halflings-regular.svg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/glyphicons-halflings-regular.ttf",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/glyphicons-halflings-regular.woff",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/glyphicons-halflings-regular.woff2",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/glyphicons-halflings-regular_1.eot",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/glyphicons-halflings-regular_1.svg",
+		"/C/Users/асус/Downloads/grape-responsive-app-landing-page-template/glyphicons-halflings-regular_1.ttf"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 145.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\389C~1\\AppData\\Local\\Temp\\7zE0BA19375\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 141.0,
+		"last_filter": "color-white",
+		"selected_items":
+		[
+			[
+				"color-white",
+				"color-white"
+			],
+			[
+				"carousel-title",
+				"carousel-title"
+			],
+			[
+				"carousel ",
+				"carousel-inner"
+			],
+			[
+				"id",
+				"isDisconnected"
+			],
+			[
+				"",
+				"carousel"
+			]
+		],
+		"width": 946.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
